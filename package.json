@@ -1,0 +1,14 @@
+{
+  "name": "google-auth-example",
+  "version": "1.0.0",
+  "description": "Esempio di autenticazione con account Google utilizzando passport.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "passport": "^0.5.2",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
